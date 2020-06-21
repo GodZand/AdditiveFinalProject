@@ -1,0 +1,6 @@
+namespace Saintynas.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
