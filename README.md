@@ -8,7 +8,7 @@ Check additives taken from online api and manage them by adding them to your dat
 # Used Tools
 * Visual Studio 
 * PostMan 
-* PhpMyAdmin
+* XAMPP
 
 # Api used
 ![E additives](https://s3.amazonaws.com/mashape-production-logos/apis/53aa5833e4b0a798dbd1ad8d_medium)
